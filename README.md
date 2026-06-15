@@ -35,6 +35,7 @@ AI-POWERED-CHATBOT/
 ├── intents.json
 ├── requirements.txt
 ├── README.md
+├── .gitignore
 
 ├── templates/
 │   ├── index.html
